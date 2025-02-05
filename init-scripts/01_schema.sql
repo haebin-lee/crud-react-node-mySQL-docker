@@ -8,6 +8,5 @@ CREATE TABLE IF NOT EXISTS books (
   price INT NOT NULL
 );
 
--- Add some test data
-INSERT INTO books (title, description, price, cover) VALUES
-    ('Test Book', 'Test Description', 29, 'cover.jpg');
+-- INSERT INTO books (title, description, price, cover) VALUES
+--     ('Test Book', 'Test Description', 29, 'cover.jpg');
